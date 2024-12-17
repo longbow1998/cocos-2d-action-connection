@@ -1,0 +1,30 @@
+2024-12-17 08:41:41 - log: Load engine in /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine
+2024-12-17 08:41:42 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,custom-pipeline,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview)
+2024-12-17 08:41:42 - log: Register native engine in /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+2024-12-17 08:41:42 - log: Request namespace: device-list
+2024-12-17 08:41:54 - log: [Scene] meshopt wasm decoder initialized
+2024-12-17 08:41:54 - log: [Scene] [box2d]:box2d wasm lib loaded.
+2024-12-17 08:41:54 - log: [Scene] [bullet]:bullet wasm lib loaded.
+2024-12-17 08:41:55 - log: [Scene] [PHYSICS]: using builtin.
+2024-12-17 08:41:55 - log: [Scene] Cocos Creator v3.8.4
+2024-12-17 08:41:55 - log: [Scene] Using custom pipeline: Builtin
+2024-12-17 08:41:55 - warn: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.Error: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.
+    at console.warn (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@sentry/src/instrument/console.ts:40:20)
+    at warn (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:154538:12)
+    at warnID (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:154726:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:159977:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:159996:7)
+    at Object.execute (file:///Users/longbow/project/learn/cocos-2d-action-connection/temp/programming/packer-driver/targets/editor/chunks/d0/d0cf58f4ab86fcc21bad1577d6112e15528f253a.js:21:7)
+    at doExec (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/longbow/project/learn/cocos-2d-action-connection/temp/programming/packer-driver/targets/editor/chunks/6d/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/longbow/project/learn/cocos-2d-action-connection/temp/programming/packer-driver/targets/editor/chunks/6d/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:316:13)
+    at Executor.reload (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:203:13)
+    at GlobalEnv.record (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1732)
+    at ScriptManager.init (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:3569)
+    at EngineStartup.openEngine (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/engine/index.ccc:1:4229)
+    at StartupManager.configEngine (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/index.ccc:1:1668)
+    at StartupManager.initEngine (/Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/index.ccc:1:2173)
+2024-12-17 08:41:55 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.

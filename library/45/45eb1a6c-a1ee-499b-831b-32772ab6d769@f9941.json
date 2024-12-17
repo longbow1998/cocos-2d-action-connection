@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BGFront",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 202,
+      "width": 512,
+      "height": 118
+    },
+    "offset": {
+      "x": 0,
+      "y": -101
+    },
+    "originalSize": {
+      "width": 512,
+      "height": 320
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -256,
+        -59,
+        0,
+        256,
+        -59,
+        0,
+        -256,
+        59,
+        0,
+        256,
+        59,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        118,
+        512,
+        118,
+        0,
+        0,
+        512,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0.36875,
+        1,
+        0.36875
+      ],
+      "minPos": {
+        "x": -256,
+        "y": -59,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 256,
+        "y": 59,
+        "z": 0
+      }
+    },
+    "texture": "45eb1a6c-a1ee-499b-831b-32772ab6d769@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

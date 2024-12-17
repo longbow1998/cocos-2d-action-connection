@@ -1,0 +1,769 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/longbow/project/learn/横版游戏demo/assets/source.meta": {
+      "time": 1733575431566.773
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/bg.meta": {
+      "time": 1733575431566.8752
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy.meta": {
+      "time": 1733575431566.953
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero.meta": {
+      "time": 1733575431567.024
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/map.meta": {
+      "time": 1733575431567.093
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/bg/BGBack.png.meta": {
+      "time": 1733575431654.3127
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/bg/BGFront.png.meta": {
+      "time": 1733575431657.8726
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/bg/CloudsBack.png.meta": {
+      "time": 1733575431656.1487
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/bg/CloudsFront.png.meta": {
+      "time": 1733575431654.753
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy/0_0.png.meta": {
+      "time": 1733575431653.9958
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy/1_0.png.meta": {
+      "time": 1733575431678.5488
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy/2_0.png.meta": {
+      "time": 1733575431689.8047
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy/3_0.png.meta": {
+      "time": 1733575431679.3462
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy/4_0.png.meta": {
+      "time": 1733575431687.2815
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy/5_0.png.meta": {
+      "time": 1733575431683.8628
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy/6_0.png.meta": {
+      "time": 1733575431712.778
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy/7_0.png.meta": {
+      "time": 1733575431710.748
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack1-00.png.meta": {
+      "time": 1733575431714.6523
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack1-01.png.meta": {
+      "time": 1733575431716.217
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack1-02.png.meta": {
+      "time": 1733575431717.6643
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack1-03.png.meta": {
+      "time": 1733575431726.8833
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack1-04.png.meta": {
+      "time": 1733575431732.8787
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack2-00.png.meta": {
+      "time": 1733575431736.5496
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack2-01.png.meta": {
+      "time": 1733575431734.7166
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack2-02.png.meta": {
+      "time": 1733575431732.4062
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack2-03.png.meta": {
+      "time": 1733575431746.7134
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack2-04.png.meta": {
+      "time": 1733575431753.926
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack2-05.png.meta": {
+      "time": 1733575431751.3762
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack3-00.png.meta": {
+      "time": 1733575431750.863
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack3-01.png.meta": {
+      "time": 1733575431756.2007
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack3-02.png.meta": {
+      "time": 1733575431767.2932
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack3-03.png.meta": {
+      "time": 1733575431773.3103
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack3-04.png.meta": {
+      "time": 1733575431776.7595
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack3-05.png.meta": {
+      "time": 1733575431777.3142
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-idle-2-00.png.meta": {
+      "time": 1733575431782.583
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-idle-2-01.png.meta": {
+      "time": 1733575431797.587
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-idle-2-02.png.meta": {
+      "time": 1733575431802.6084
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-idle-2-03.png.meta": {
+      "time": 1733575431804.4382
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-run-00.png.meta": {
+      "time": 1733575431807.3044
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-run-01.png.meta": {
+      "time": 1733575431810.0374
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-run-02.png.meta": {
+      "time": 1733575431825.2776
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-run-03.png.meta": {
+      "time": 1733575431823.3704
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-run-04.png.meta": {
+      "time": 1733575431824.638
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-run-05.png.meta": {
+      "time": 1733575431827.3384
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/map/TilesExamples.png.meta": {
+      "time": 1733578140093.6624
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/map/Tileset.png.meta": {
+      "time": 1733578120647.7322
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/map/Trees.png.meta": {
+      "time": 1733578130826.7166
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/map/map.tmx.meta": {
+      "time": 1733575431835.0674
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source": {
+      "time": 1733575431560.014,
+      "uuid": "2356c952-79f8-438f-9206-f6a80f5b49d8"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/bg": {
+      "time": 1733575431560.6228,
+      "uuid": "f92e9c00-0793-4587-a4c6-300ab2158bfe"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy": {
+      "time": 1733575431561.609,
+      "uuid": "84ad8d5a-2c01-4198-8ab6-a7bd97873b12"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero": {
+      "time": 1733575431565.3137,
+      "uuid": "2c1713fe-b7a9-4cb4-9ff3-ff283fd84d21"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/map": {
+      "time": 1733575431565.7517,
+      "uuid": "b66c020e-90a2-4875-9c27-969f549b1650"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy/0_0.png": {
+      "time": 1733575431555.2485,
+      "uuid": "46ba5e5b-4853-4a25-a3a4-aa17e73d1419"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/bg/BGBack.png": {
+      "time": 1733575431557.5264,
+      "uuid": "412bc46e-1773-4240-a692-3417cba4eed9"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/bg/CloudsFront.png": {
+      "time": 1733575431556.0088,
+      "uuid": "549c2334-0d9b-415a-97b1-1a126ad24880"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/bg/CloudsBack.png": {
+      "time": 1733575431556.625,
+      "uuid": "c43f028a-9746-4e00-b89f-104da537cdfa"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/bg/BGFront.png": {
+      "time": 1733575431557.1633,
+      "uuid": "45eb1a6c-a1ee-499b-831b-32772ab6d769"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy/1_0.png": {
+      "time": 1733575431554.9414,
+      "uuid": "f870ad32-3710-48d0-9437-c5cf2c8b500c"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy/3_0.png": {
+      "time": 1733575431554.0813,
+      "uuid": "ba752f8c-64fa-4102-ba09-1653dc62c02a"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy/5_0.png": {
+      "time": 1733575431553.29,
+      "uuid": "caa1dd2c-fcb4-4295-826b-1e3e43661aa6"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy/4_0.png": {
+      "time": 1733575431553.6565,
+      "uuid": "dd912c75-57cc-479f-9cf2-b4fc48293ef4"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy/2_0.png": {
+      "time": 1733575431554.557,
+      "uuid": "fd4001da-04a8-4bab-a100-c83459fc0155"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy/7_0.png": {
+      "time": 1733575431552.5369,
+      "uuid": "f2cff50f-2610-4a23-8456-34ddf796cc62"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/enemy/6_0.png": {
+      "time": 1733575431552.9958,
+      "uuid": "87ebb106-f10e-415c-b2da-557cd3e3e3a9"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack1-00.png": {
+      "time": 1733575431551.867,
+      "uuid": "1694477b-c671-47a3-a386-377b1092e3a9"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack1-01.png": {
+      "time": 1733575431551.279,
+      "uuid": "7fca3724-4ac8-4873-97a8-98112c9b9dc0"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack1-02.png": {
+      "time": 1733575431550.6768,
+      "uuid": "79d89ccc-dd48-4078-bb46-d17ea8f848e2"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack1-03.png": {
+      "time": 1733575431548.372,
+      "uuid": "9dd29ba9-5867-48ed-bd2f-edad0de31c71"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack2-02.png": {
+      "time": 1733575431546.4482,
+      "uuid": "d219e842-acf5-425a-a1a5-40c83df5d087"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack1-04.png": {
+      "time": 1733575431547.8792,
+      "uuid": "185c23bb-9193-4e63-b2f8-352d458b8a15"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack2-01.png": {
+      "time": 1733575431546.892,
+      "uuid": "a8173d40-6f49-4459-8686-b59482f50d85"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack2-00.png": {
+      "time": 1733575431547.4194,
+      "uuid": "3e5a6218-f9f0-4159-83a3-8f460adf3964"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack2-03.png": {
+      "time": 1733575431546.0537,
+      "uuid": "90d9120a-65b8-4709-a3c6-b8e0d9774ced"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack3-00.png": {
+      "time": 1733575431545.072,
+      "uuid": "183117bd-2dce-4f1b-9f1c-454a4518fc49"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack2-05.png": {
+      "time": 1733575431545.407,
+      "uuid": "5bb8edaa-2414-494d-9d8d-9678bac90d53"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack2-04.png": {
+      "time": 1733575431545.7417,
+      "uuid": "09ecb3a5-5bca-4fc7-affd-d9dd9f7358b8"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack3-01.png": {
+      "time": 1733575431544.4294,
+      "uuid": "3ac3993f-cba7-4b5d-8150-2ef76602341d"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack3-02.png": {
+      "time": 1733575431543.5942,
+      "uuid": "5f03535a-f163-490a-987e-0c8924717cee"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack3-03.png": {
+      "time": 1733575431543.0352,
+      "uuid": "6026c3de-c82f-44a2-98f2-fc9b4c16e10a"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack3-04.png": {
+      "time": 1733575431542.4905,
+      "uuid": "ade24ac2-98e8-4ec6-befa-0237fe9b5512"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-attack3-05.png": {
+      "time": 1733575431542.1433,
+      "uuid": "445c52f1-5ec9-420d-885d-85cd18e4b951"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-idle-2-00.png": {
+      "time": 1733575431541.7852,
+      "uuid": "c89fd6d0-1daa-4807-aeaf-0ce342a90411"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-idle-2-01.png": {
+      "time": 1733575431541.4568,
+      "uuid": "b79910e3-ba20-491b-929b-7de53dc5d80e"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-idle-2-02.png": {
+      "time": 1733575431541.0952,
+      "uuid": "27919899-b06e-4fa4-a3f9-2fc00387c482"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-idle-2-03.png": {
+      "time": 1733575431540.2622,
+      "uuid": "57a5a340-14e7-4704-8aca-12890496f916"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-run-00.png": {
+      "time": 1733575431539.6855,
+      "uuid": "b8e9fffc-f664-4fc6-8075-ddfc8ac494f9"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-run-01.png": {
+      "time": 1733575431539.2078,
+      "uuid": "c23ed5ab-6df9-49ec-9003-356bfc3d8a4b"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-run-03.png": {
+      "time": 1733575431538.0427,
+      "uuid": "f25983cc-ba91-4d79-8ef2-3f74d98c6466"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-run-04.png": {
+      "time": 1733575431537.0776,
+      "uuid": "39146321-a83d-42b6-854a-e4c5726fa5bf"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-run-02.png": {
+      "time": 1733575431538.755,
+      "uuid": "ebd1319a-cbf9-45c2-b054-57cf8ff57565"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/hero/adventurer-run-05.png": {
+      "time": 1733575431536.5415,
+      "uuid": "41281044-cd94-48a4-92f5-884dcd5cda78"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/map/map.tmx": {
+      "time": 1733575431534.009,
+      "uuid": "996d5144-10b4-40b2-842c-1fd2ba955478"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/map/TilesExamples.png": {
+      "time": 1733575431535.698,
+      "uuid": "c00969e4-733b-4abd-ac00-a14fe90eb16f"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/map/Tileset.png": {
+      "time": 1733575431535.2183,
+      "uuid": "f869c04f-55a8-4226-ba45-85f4cd94a99c"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/map/Trees.png": {
+      "time": 1733575431534.608,
+      "uuid": "f3bea862-e4c3-4c30-bcf7-527f4e46f16b"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/scene.meta": {
+      "time": 1733576580751.043
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/scene": {
+      "time": 1734159806866.654,
+      "uuid": "716f7695-ba79-4fb0-aae1-df44488f2f0b"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/scene/game.scene.meta": {
+      "time": 1733576949834.7424
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/scene/game.scene": {
+      "time": 1734156631995.2031,
+      "uuid": "4b26402c-dd52-427c-a8d6-366aa38c2137"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/script.meta": {
+      "time": 1733579215835.9707
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/script": {
+      "time": 1733579227266.1494,
+      "uuid": "e9b821dd-6b74-4e9e-bbef-926fddf87ce3"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/script/game.ts.meta": {
+      "time": 1733579227267.2896
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/script/game.ts": {
+      "time": 1734163016484.5022,
+      "uuid": "1981ee74-7824-4f71-8a0e-69cb800bcf86"
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/scene/hero.ts.meta": {
+      "time": 1734159806874.8303
+    },
+    "/Users/longbow/project/learn/横版游戏demo/assets/scene/hero.ts": {
+      "time": 1734165131975.6887,
+      "uuid": "c8b4fa5f-f77c-402b-b930-5298a5f10f77"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/scene": {
+      "time": 1734159806866.654,
+      "uuid": "716f7695-ba79-4fb0-aae1-df44488f2f0b"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/script": {
+      "time": 1733579227266.1494,
+      "uuid": "e9b821dd-6b74-4e9e-bbef-926fddf87ce3"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source": {
+      "time": 1733575431560.014,
+      "uuid": "2356c952-79f8-438f-9206-f6a80f5b49d8"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg": {
+      "time": 1733575431560.6228,
+      "uuid": "f92e9c00-0793-4587-a4c6-300ab2158bfe"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy": {
+      "time": 1733575431561.609,
+      "uuid": "84ad8d5a-2c01-4198-8ab6-a7bd97873b12"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero": {
+      "time": 1733575431565.3137,
+      "uuid": "2c1713fe-b7a9-4cb4-9ff3-ff283fd84d21"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map": {
+      "time": 1733575431565.7515,
+      "uuid": "b66c020e-90a2-4875-9c27-969f549b1650"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/scene/hero.ts": {
+      "time": 1734165132975.687,
+      "uuid": "c8b4fa5f-f77c-402b-b930-5298a5f10f77"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/script/game.ts": {
+      "time": 1734163017484.5,
+      "uuid": "1981ee74-7824-4f71-8a0e-69cb800bcf86"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/scene.meta": {
+      "time": 1733576580751.043
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/script.meta": {
+      "time": 1733579215835.9707
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source.meta": {
+      "time": 1733575431566.773
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg.meta": {
+      "time": 1733575431566.8752
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy.meta": {
+      "time": 1733575431566.953
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero.meta": {
+      "time": 1733575431567.024
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map.meta": {
+      "time": 1733575431567.093
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/scene/hero.ts.meta": {
+      "time": 1734159806874.8306
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/script/game.ts.meta": {
+      "time": 1733579227267.2893
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/scene/game.scene": {
+      "time": 1734396120706.8635,
+      "uuid": "4b26402c-dd52-427c-a8d6-366aa38c2137"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/BGBack.png": {
+      "time": 1733575431557.5264,
+      "uuid": "412bc46e-1773-4240-a692-3417cba4eed9"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/BGFront.png": {
+      "time": 1733575431557.1636,
+      "uuid": "45eb1a6c-a1ee-499b-831b-32772ab6d769"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/CloudsBack.png": {
+      "time": 1733575431556.625,
+      "uuid": "c43f028a-9746-4e00-b89f-104da537cdfa"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/CloudsFront.png": {
+      "time": 1733575431556.009,
+      "uuid": "549c2334-0d9b-415a-97b1-1a126ad24880"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/0_0.png": {
+      "time": 1733575431555.2485,
+      "uuid": "46ba5e5b-4853-4a25-a3a4-aa17e73d1419"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/1_0.png": {
+      "time": 1733575431554.9414,
+      "uuid": "f870ad32-3710-48d0-9437-c5cf2c8b500c"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/2_0.png": {
+      "time": 1733575431554.557,
+      "uuid": "fd4001da-04a8-4bab-a100-c83459fc0155"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/3_0.png": {
+      "time": 1733575431554.0813,
+      "uuid": "ba752f8c-64fa-4102-ba09-1653dc62c02a"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/4_0.png": {
+      "time": 1733575431553.6565,
+      "uuid": "dd912c75-57cc-479f-9cf2-b4fc48293ef4"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/5_0.png": {
+      "time": 1733575431553.29,
+      "uuid": "caa1dd2c-fcb4-4295-826b-1e3e43661aa6"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/6_0.png": {
+      "time": 1733575431552.9958,
+      "uuid": "87ebb106-f10e-415c-b2da-557cd3e3e3a9"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/7_0.png": {
+      "time": 1733575431552.5366,
+      "uuid": "f2cff50f-2610-4a23-8456-34ddf796cc62"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-00.png": {
+      "time": 1733575431551.867,
+      "uuid": "1694477b-c671-47a3-a386-377b1092e3a9"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-01.png": {
+      "time": 1733575431551.279,
+      "uuid": "7fca3724-4ac8-4873-97a8-98112c9b9dc0"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-02.png": {
+      "time": 1733575431550.6768,
+      "uuid": "79d89ccc-dd48-4078-bb46-d17ea8f848e2"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-03.png": {
+      "time": 1733575431548.372,
+      "uuid": "9dd29ba9-5867-48ed-bd2f-edad0de31c71"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-04.png": {
+      "time": 1733575431547.8792,
+      "uuid": "185c23bb-9193-4e63-b2f8-352d458b8a15"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-00.png": {
+      "time": 1733575431547.4194,
+      "uuid": "3e5a6218-f9f0-4159-83a3-8f460adf3964"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-01.png": {
+      "time": 1733575431546.892,
+      "uuid": "a8173d40-6f49-4459-8686-b59482f50d85"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-02.png": {
+      "time": 1733575431546.4482,
+      "uuid": "d219e842-acf5-425a-a1a5-40c83df5d087"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-03.png": {
+      "time": 1733575431546.0537,
+      "uuid": "90d9120a-65b8-4709-a3c6-b8e0d9774ced"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-04.png": {
+      "time": 1733575431545.7417,
+      "uuid": "09ecb3a5-5bca-4fc7-affd-d9dd9f7358b8"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-05.png": {
+      "time": 1733575431545.4067,
+      "uuid": "5bb8edaa-2414-494d-9d8d-9678bac90d53"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-00.png": {
+      "time": 1733575431545.072,
+      "uuid": "183117bd-2dce-4f1b-9f1c-454a4518fc49"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-01.png": {
+      "time": 1733575431544.4294,
+      "uuid": "3ac3993f-cba7-4b5d-8150-2ef76602341d"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-02.png": {
+      "time": 1733575431543.5942,
+      "uuid": "5f03535a-f163-490a-987e-0c8924717cee"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-03.png": {
+      "time": 1733575431543.035,
+      "uuid": "6026c3de-c82f-44a2-98f2-fc9b4c16e10a"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-04.png": {
+      "time": 1733575431542.4905,
+      "uuid": "ade24ac2-98e8-4ec6-befa-0237fe9b5512"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-05.png": {
+      "time": 1733575431542.1433,
+      "uuid": "445c52f1-5ec9-420d-885d-85cd18e4b951"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-00.png": {
+      "time": 1733575431541.7852,
+      "uuid": "c89fd6d0-1daa-4807-aeaf-0ce342a90411"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-01.png": {
+      "time": 1733575431541.457,
+      "uuid": "b79910e3-ba20-491b-929b-7de53dc5d80e"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-02.png": {
+      "time": 1733575431541.0952,
+      "uuid": "27919899-b06e-4fa4-a3f9-2fc00387c482"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-03.png": {
+      "time": 1733575431540.2622,
+      "uuid": "57a5a340-14e7-4704-8aca-12890496f916"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-00.png": {
+      "time": 1733575431539.6855,
+      "uuid": "b8e9fffc-f664-4fc6-8075-ddfc8ac494f9"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-01.png": {
+      "time": 1733575431539.2078,
+      "uuid": "c23ed5ab-6df9-49ec-9003-356bfc3d8a4b"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-02.png": {
+      "time": 1733575431538.755,
+      "uuid": "ebd1319a-cbf9-45c2-b054-57cf8ff57565"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-03.png": {
+      "time": 1733575431538.0427,
+      "uuid": "f25983cc-ba91-4d79-8ef2-3f74d98c6466"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-04.png": {
+      "time": 1733575431537.078,
+      "uuid": "39146321-a83d-42b6-854a-e4c5726fa5bf"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-05.png": {
+      "time": 1733575431536.5415,
+      "uuid": "41281044-cd94-48a4-92f5-884dcd5cda78"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/TilesExamples.png": {
+      "time": 1733575431535.698,
+      "uuid": "c00969e4-733b-4abd-ac00-a14fe90eb16f"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/Tileset.png": {
+      "time": 1733575431535.2183,
+      "uuid": "f869c04f-55a8-4226-ba45-85f4cd94a99c"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/Trees.png": {
+      "time": 1733575431534.6077,
+      "uuid": "f3bea862-e4c3-4c30-bcf7-527f4e46f16b"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/map.tmx": {
+      "time": 1733575431534.009,
+      "uuid": "996d5144-10b4-40b2-842c-1fd2ba955478"
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/scene/game.scene.meta": {
+      "time": 1733576949834.7424
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/BGFront.png.meta": {
+      "time": 1733575431657.8726
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/CloudsFront.png.meta": {
+      "time": 1733575431654.753
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/BGBack.png.meta": {
+      "time": 1733575431654.3127
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/CloudsBack.png.meta": {
+      "time": 1733575431656.1487
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/0_0.png.meta": {
+      "time": 1733575431653.9958
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/1_0.png.meta": {
+      "time": 1733575431678.5488
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/3_0.png.meta": {
+      "time": 1733575431679.3462
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/2_0.png.meta": {
+      "time": 1733575431689.8044
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/4_0.png.meta": {
+      "time": 1733575431687.2815
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/5_0.png.meta": {
+      "time": 1733575431683.8628
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/7_0.png.meta": {
+      "time": 1733575431710.748
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-01.png.meta": {
+      "time": 1733575431716.217
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-00.png.meta": {
+      "time": 1733575431714.6523
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/6_0.png.meta": {
+      "time": 1733575431712.7783
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-02.png.meta": {
+      "time": 1733575431717.6643
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-03.png.meta": {
+      "time": 1733575431726.8833
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-00.png.meta": {
+      "time": 1733575431736.5496
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-01.png.meta": {
+      "time": 1733575431734.7163
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-04.png.meta": {
+      "time": 1733575431732.879
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-02.png.meta": {
+      "time": 1733575431732.4062
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-04.png.meta": {
+      "time": 1733575431753.926
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-03.png.meta": {
+      "time": 1733575431746.7136
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-00.png.meta": {
+      "time": 1733575431750.8633
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-05.png.meta": {
+      "time": 1733575431751.3762
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-01.png.meta": {
+      "time": 1733575431756.2007
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-02.png.meta": {
+      "time": 1733575431767.2932
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-03.png.meta": {
+      "time": 1733575431773.3103
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-04.png.meta": {
+      "time": 1733575431776.7595
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-05.png.meta": {
+      "time": 1733575431777.3142
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-00.png.meta": {
+      "time": 1733575431782.583
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-01.png.meta": {
+      "time": 1733575431797.587
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-02.png.meta": {
+      "time": 1733575431802.6084
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-03.png.meta": {
+      "time": 1733575431804.4382
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-00.png.meta": {
+      "time": 1733575431807.3044
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-01.png.meta": {
+      "time": 1733575431810.0376
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-03.png.meta": {
+      "time": 1733575431823.3704
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-02.png.meta": {
+      "time": 1733575431825.2776
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-04.png.meta": {
+      "time": 1733575431824.638
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-05.png.meta": {
+      "time": 1733575431827.3384
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/map.tmx.meta": {
+      "time": 1733575431835.0674
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/TilesExamples.png.meta": {
+      "time": 1733578140093.6626
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/Tileset.png.meta": {
+      "time": 1733578120647.7322
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/Trees.png.meta": {
+      "time": 1733578130826.7166
+    }
+  },
+  "missing": {
+    "716f7695-ba79-4fb0-aae1-df44488f2f0b": {
+      "path": "/Users/longbow/project/learn/横版游戏demo/assets/scen'e",
+      "time": 1733576580748.8574,
+      "removeTime": 1733576583583
+    },
+    "5e45bf89-3202-4db6-a658-a0eb8e74faa8": {
+      "path": "/Users/longbow/project/learn/横版游戏demo/assets/scene/game.scene",
+      "time": 1733576587828.9463,
+      "removeTime": 1733576927741
+    },
+    "4b26402c-dd52-427c-a8d6-366aa38c2137": {
+      "path": "/Users/longbow/project/learn/横版游戏demo/assets/game.scene",
+      "time": 1733576949833.6426,
+      "removeTime": 1733576955407
+    },
+    "e9b821dd-6b74-4e9e-bbef-926fddf87ce3": {
+      "path": "/Users/longbow/project/learn/横版游戏demo/assets/sc",
+      "time": 1733579215833.692,
+      "removeTime": 1733579220258
+    }
+  }
+}

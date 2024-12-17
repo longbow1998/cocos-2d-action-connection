@@ -1,0 +1,14 @@
+{
+  "path": {
+    "/Users/longbow/project/learn/横版游戏demo/assets/source/map/map.tmx": [
+      "/Users/longbow/project/learn/横版游戏demo/assets/source/map/Tileset.png",
+      "/Users/longbow/project/learn/横版游戏demo/assets/source/map/TilesExamples.png",
+      "/Users/longbow/project/learn/横版游戏demo/assets/source/map/Trees.png"
+    ],
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/map.tmx": [
+      "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/Tileset.png",
+      "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/TilesExamples.png",
+      "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/Trees.png"
+    ]
+  }
+}

@@ -1,0 +1,1131 @@
+{
+  "2356c952-79f8-438f-9206-f6a80f5b49d8": {
+    "url": "db://assets/source",
+    "value": {},
+    "versionCode": 1
+  },
+  "f92e9c00-0793-4587-a4c6-300ab2158bfe": {
+    "url": "db://assets/source/bg",
+    "value": {},
+    "versionCode": 1
+  },
+  "84ad8d5a-2c01-4198-8ab6-a7bd97873b12": {
+    "url": "db://assets/source/enemy",
+    "value": {},
+    "versionCode": 1
+  },
+  "2c1713fe-b7a9-4cb4-9ff3-ff283fd84d21": {
+    "url": "db://assets/source/hero",
+    "value": {},
+    "versionCode": 1
+  },
+  "b66c020e-90a2-4875-9c27-969f549b1650": {
+    "url": "db://assets/source/map",
+    "value": {},
+    "versionCode": 1
+  },
+  "412bc46e-1773-4240-a692-3417cba4eed9": {
+    "url": "db://assets/source/bg/BGBack.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "45eb1a6c-a1ee-499b-831b-32772ab6d769": {
+    "url": "db://assets/source/bg/BGFront.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c43f028a-9746-4e00-b89f-104da537cdfa": {
+    "url": "db://assets/source/bg/CloudsBack.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "549c2334-0d9b-415a-97b1-1a126ad24880": {
+    "url": "db://assets/source/bg/CloudsFront.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "46ba5e5b-4853-4a25-a3a4-aa17e73d1419": {
+    "url": "db://assets/source/enemy/0_0.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "45eb1a6c-a1ee-499b-831b-32772ab6d769@6c48a": {
+    "url": "db://assets/source/bg/BGFront.png@6c48a",
+    "value": {
+      "depends": [
+        "45eb1a6c-a1ee-499b-831b-32772ab6d769"
+      ]
+    },
+    "versionCode": 1
+  },
+  "549c2334-0d9b-415a-97b1-1a126ad24880@6c48a": {
+    "url": "db://assets/source/bg/CloudsFront.png@6c48a",
+    "value": {
+      "depends": [
+        "549c2334-0d9b-415a-97b1-1a126ad24880"
+      ]
+    },
+    "versionCode": 1
+  },
+  "46ba5e5b-4853-4a25-a3a4-aa17e73d1419@6c48a": {
+    "url": "db://assets/source/enemy/0_0.png@6c48a",
+    "value": {
+      "depends": [
+        "46ba5e5b-4853-4a25-a3a4-aa17e73d1419"
+      ]
+    },
+    "versionCode": 1
+  },
+  "412bc46e-1773-4240-a692-3417cba4eed9@6c48a": {
+    "url": "db://assets/source/bg/BGBack.png@6c48a",
+    "value": {
+      "depends": [
+        "412bc46e-1773-4240-a692-3417cba4eed9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c43f028a-9746-4e00-b89f-104da537cdfa@6c48a": {
+    "url": "db://assets/source/bg/CloudsBack.png@6c48a",
+    "value": {
+      "depends": [
+        "c43f028a-9746-4e00-b89f-104da537cdfa"
+      ]
+    },
+    "versionCode": 1
+  },
+  "46ba5e5b-4853-4a25-a3a4-aa17e73d1419@f9941": {
+    "url": "db://assets/source/enemy/0_0.png@f9941",
+    "value": {
+      "depends": [
+        "46ba5e5b-4853-4a25-a3a4-aa17e73d1419@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "412bc46e-1773-4240-a692-3417cba4eed9@f9941": {
+    "url": "db://assets/source/bg/BGBack.png@f9941",
+    "value": {
+      "depends": [
+        "412bc46e-1773-4240-a692-3417cba4eed9@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "549c2334-0d9b-415a-97b1-1a126ad24880@f9941": {
+    "url": "db://assets/source/bg/CloudsFront.png@f9941",
+    "value": {
+      "depends": [
+        "549c2334-0d9b-415a-97b1-1a126ad24880@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f870ad32-3710-48d0-9437-c5cf2c8b500c": {
+    "url": "db://assets/source/enemy/1_0.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fd4001da-04a8-4bab-a100-c83459fc0155": {
+    "url": "db://assets/source/enemy/2_0.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ba752f8c-64fa-4102-ba09-1653dc62c02a": {
+    "url": "db://assets/source/enemy/3_0.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c43f028a-9746-4e00-b89f-104da537cdfa@f9941": {
+    "url": "db://assets/source/bg/CloudsBack.png@f9941",
+    "value": {
+      "depends": [
+        "c43f028a-9746-4e00-b89f-104da537cdfa@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "dd912c75-57cc-479f-9cf2-b4fc48293ef4": {
+    "url": "db://assets/source/enemy/4_0.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "45eb1a6c-a1ee-499b-831b-32772ab6d769@f9941": {
+    "url": "db://assets/source/bg/BGFront.png@f9941",
+    "value": {
+      "depends": [
+        "45eb1a6c-a1ee-499b-831b-32772ab6d769@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "caa1dd2c-fcb4-4295-826b-1e3e43661aa6": {
+    "url": "db://assets/source/enemy/5_0.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f870ad32-3710-48d0-9437-c5cf2c8b500c@6c48a": {
+    "url": "db://assets/source/enemy/1_0.png@6c48a",
+    "value": {
+      "depends": [
+        "f870ad32-3710-48d0-9437-c5cf2c8b500c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ba752f8c-64fa-4102-ba09-1653dc62c02a@6c48a": {
+    "url": "db://assets/source/enemy/3_0.png@6c48a",
+    "value": {
+      "depends": [
+        "ba752f8c-64fa-4102-ba09-1653dc62c02a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "caa1dd2c-fcb4-4295-826b-1e3e43661aa6@6c48a": {
+    "url": "db://assets/source/enemy/5_0.png@6c48a",
+    "value": {
+      "depends": [
+        "caa1dd2c-fcb4-4295-826b-1e3e43661aa6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "dd912c75-57cc-479f-9cf2-b4fc48293ef4@6c48a": {
+    "url": "db://assets/source/enemy/4_0.png@6c48a",
+    "value": {
+      "depends": [
+        "dd912c75-57cc-479f-9cf2-b4fc48293ef4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fd4001da-04a8-4bab-a100-c83459fc0155@6c48a": {
+    "url": "db://assets/source/enemy/2_0.png@6c48a",
+    "value": {
+      "depends": [
+        "fd4001da-04a8-4bab-a100-c83459fc0155"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f870ad32-3710-48d0-9437-c5cf2c8b500c@f9941": {
+    "url": "db://assets/source/enemy/1_0.png@f9941",
+    "value": {
+      "depends": [
+        "f870ad32-3710-48d0-9437-c5cf2c8b500c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ba752f8c-64fa-4102-ba09-1653dc62c02a@f9941": {
+    "url": "db://assets/source/enemy/3_0.png@f9941",
+    "value": {
+      "depends": [
+        "ba752f8c-64fa-4102-ba09-1653dc62c02a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "87ebb106-f10e-415c-b2da-557cd3e3e3a9": {
+    "url": "db://assets/source/enemy/6_0.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f2cff50f-2610-4a23-8456-34ddf796cc62": {
+    "url": "db://assets/source/enemy/7_0.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "caa1dd2c-fcb4-4295-826b-1e3e43661aa6@f9941": {
+    "url": "db://assets/source/enemy/5_0.png@f9941",
+    "value": {
+      "depends": [
+        "caa1dd2c-fcb4-4295-826b-1e3e43661aa6@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1694477b-c671-47a3-a386-377b1092e3a9": {
+    "url": "db://assets/source/hero/adventurer-attack1-00.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "dd912c75-57cc-479f-9cf2-b4fc48293ef4@f9941": {
+    "url": "db://assets/source/enemy/4_0.png@f9941",
+    "value": {
+      "depends": [
+        "dd912c75-57cc-479f-9cf2-b4fc48293ef4@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7fca3724-4ac8-4873-97a8-98112c9b9dc0": {
+    "url": "db://assets/source/hero/adventurer-attack1-01.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fd4001da-04a8-4bab-a100-c83459fc0155@f9941": {
+    "url": "db://assets/source/enemy/2_0.png@f9941",
+    "value": {
+      "depends": [
+        "fd4001da-04a8-4bab-a100-c83459fc0155@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "79d89ccc-dd48-4078-bb46-d17ea8f848e2": {
+    "url": "db://assets/source/hero/adventurer-attack1-02.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f2cff50f-2610-4a23-8456-34ddf796cc62@6c48a": {
+    "url": "db://assets/source/enemy/7_0.png@6c48a",
+    "value": {
+      "depends": [
+        "f2cff50f-2610-4a23-8456-34ddf796cc62"
+      ]
+    },
+    "versionCode": 1
+  },
+  "87ebb106-f10e-415c-b2da-557cd3e3e3a9@6c48a": {
+    "url": "db://assets/source/enemy/6_0.png@6c48a",
+    "value": {
+      "depends": [
+        "87ebb106-f10e-415c-b2da-557cd3e3e3a9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1694477b-c671-47a3-a386-377b1092e3a9@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack1-00.png@6c48a",
+    "value": {
+      "depends": [
+        "1694477b-c671-47a3-a386-377b1092e3a9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7fca3724-4ac8-4873-97a8-98112c9b9dc0@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack1-01.png@6c48a",
+    "value": {
+      "depends": [
+        "7fca3724-4ac8-4873-97a8-98112c9b9dc0"
+      ]
+    },
+    "versionCode": 1
+  },
+  "79d89ccc-dd48-4078-bb46-d17ea8f848e2@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack1-02.png@6c48a",
+    "value": {
+      "depends": [
+        "79d89ccc-dd48-4078-bb46-d17ea8f848e2"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f2cff50f-2610-4a23-8456-34ddf796cc62@f9941": {
+    "url": "db://assets/source/enemy/7_0.png@f9941",
+    "value": {
+      "depends": [
+        "f2cff50f-2610-4a23-8456-34ddf796cc62@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9dd29ba9-5867-48ed-bd2f-edad0de31c71": {
+    "url": "db://assets/source/hero/adventurer-attack1-03.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "87ebb106-f10e-415c-b2da-557cd3e3e3a9@f9941": {
+    "url": "db://assets/source/enemy/6_0.png@f9941",
+    "value": {
+      "depends": [
+        "87ebb106-f10e-415c-b2da-557cd3e3e3a9@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "185c23bb-9193-4e63-b2f8-352d458b8a15": {
+    "url": "db://assets/source/hero/adventurer-attack1-04.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "1694477b-c671-47a3-a386-377b1092e3a9@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack1-00.png@f9941",
+    "value": {
+      "depends": [
+        "1694477b-c671-47a3-a386-377b1092e3a9@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3e5a6218-f9f0-4159-83a3-8f460adf3964": {
+    "url": "db://assets/source/hero/adventurer-attack2-00.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "7fca3724-4ac8-4873-97a8-98112c9b9dc0@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack1-01.png@f9941",
+    "value": {
+      "depends": [
+        "7fca3724-4ac8-4873-97a8-98112c9b9dc0@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a8173d40-6f49-4459-8686-b59482f50d85": {
+    "url": "db://assets/source/hero/adventurer-attack2-01.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "79d89ccc-dd48-4078-bb46-d17ea8f848e2@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack1-02.png@f9941",
+    "value": {
+      "depends": [
+        "79d89ccc-dd48-4078-bb46-d17ea8f848e2@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d219e842-acf5-425a-a1a5-40c83df5d087": {
+    "url": "db://assets/source/hero/adventurer-attack2-02.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "9dd29ba9-5867-48ed-bd2f-edad0de31c71@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack1-03.png@6c48a",
+    "value": {
+      "depends": [
+        "9dd29ba9-5867-48ed-bd2f-edad0de31c71"
+      ]
+    },
+    "versionCode": 1
+  },
+  "185c23bb-9193-4e63-b2f8-352d458b8a15@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack1-04.png@6c48a",
+    "value": {
+      "depends": [
+        "185c23bb-9193-4e63-b2f8-352d458b8a15"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d219e842-acf5-425a-a1a5-40c83df5d087@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack2-02.png@6c48a",
+    "value": {
+      "depends": [
+        "d219e842-acf5-425a-a1a5-40c83df5d087"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9dd29ba9-5867-48ed-bd2f-edad0de31c71@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack1-03.png@f9941",
+    "value": {
+      "depends": [
+        "9dd29ba9-5867-48ed-bd2f-edad0de31c71@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "90d9120a-65b8-4709-a3c6-b8e0d9774ced": {
+    "url": "db://assets/source/hero/adventurer-attack2-03.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a8173d40-6f49-4459-8686-b59482f50d85@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack2-01.png@6c48a",
+    "value": {
+      "depends": [
+        "a8173d40-6f49-4459-8686-b59482f50d85"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3e5a6218-f9f0-4159-83a3-8f460adf3964@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack2-00.png@6c48a",
+    "value": {
+      "depends": [
+        "3e5a6218-f9f0-4159-83a3-8f460adf3964"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d219e842-acf5-425a-a1a5-40c83df5d087@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack2-02.png@f9941",
+    "value": {
+      "depends": [
+        "d219e842-acf5-425a-a1a5-40c83df5d087@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "185c23bb-9193-4e63-b2f8-352d458b8a15@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack1-04.png@f9941",
+    "value": {
+      "depends": [
+        "185c23bb-9193-4e63-b2f8-352d458b8a15@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "09ecb3a5-5bca-4fc7-affd-d9dd9f7358b8": {
+    "url": "db://assets/source/hero/adventurer-attack2-04.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "5bb8edaa-2414-494d-9d8d-9678bac90d53": {
+    "url": "db://assets/source/hero/adventurer-attack2-05.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a8173d40-6f49-4459-8686-b59482f50d85@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack2-01.png@f9941",
+    "value": {
+      "depends": [
+        "a8173d40-6f49-4459-8686-b59482f50d85@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "183117bd-2dce-4f1b-9f1c-454a4518fc49": {
+    "url": "db://assets/source/hero/adventurer-attack3-00.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3e5a6218-f9f0-4159-83a3-8f460adf3964@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack2-00.png@f9941",
+    "value": {
+      "depends": [
+        "3e5a6218-f9f0-4159-83a3-8f460adf3964@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3ac3993f-cba7-4b5d-8150-2ef76602341d": {
+    "url": "db://assets/source/hero/adventurer-attack3-01.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "90d9120a-65b8-4709-a3c6-b8e0d9774ced@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack2-03.png@6c48a",
+    "value": {
+      "depends": [
+        "90d9120a-65b8-4709-a3c6-b8e0d9774ced"
+      ]
+    },
+    "versionCode": 1
+  },
+  "183117bd-2dce-4f1b-9f1c-454a4518fc49@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack3-00.png@6c48a",
+    "value": {
+      "depends": [
+        "183117bd-2dce-4f1b-9f1c-454a4518fc49"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5bb8edaa-2414-494d-9d8d-9678bac90d53@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack2-05.png@6c48a",
+    "value": {
+      "depends": [
+        "5bb8edaa-2414-494d-9d8d-9678bac90d53"
+      ]
+    },
+    "versionCode": 1
+  },
+  "90d9120a-65b8-4709-a3c6-b8e0d9774ced@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack2-03.png@f9941",
+    "value": {
+      "depends": [
+        "90d9120a-65b8-4709-a3c6-b8e0d9774ced@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "09ecb3a5-5bca-4fc7-affd-d9dd9f7358b8@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack2-04.png@6c48a",
+    "value": {
+      "depends": [
+        "09ecb3a5-5bca-4fc7-affd-d9dd9f7358b8"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5f03535a-f163-490a-987e-0c8924717cee": {
+    "url": "db://assets/source/hero/adventurer-attack3-02.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3ac3993f-cba7-4b5d-8150-2ef76602341d@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack3-01.png@6c48a",
+    "value": {
+      "depends": [
+        "3ac3993f-cba7-4b5d-8150-2ef76602341d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "183117bd-2dce-4f1b-9f1c-454a4518fc49@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack3-00.png@f9941",
+    "value": {
+      "depends": [
+        "183117bd-2dce-4f1b-9f1c-454a4518fc49@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5bb8edaa-2414-494d-9d8d-9678bac90d53@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack2-05.png@f9941",
+    "value": {
+      "depends": [
+        "5bb8edaa-2414-494d-9d8d-9678bac90d53@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6026c3de-c82f-44a2-98f2-fc9b4c16e10a": {
+    "url": "db://assets/source/hero/adventurer-attack3-03.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ade24ac2-98e8-4ec6-befa-0237fe9b5512": {
+    "url": "db://assets/source/hero/adventurer-attack3-04.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "09ecb3a5-5bca-4fc7-affd-d9dd9f7358b8@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack2-04.png@f9941",
+    "value": {
+      "depends": [
+        "09ecb3a5-5bca-4fc7-affd-d9dd9f7358b8@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "445c52f1-5ec9-420d-885d-85cd18e4b951": {
+    "url": "db://assets/source/hero/adventurer-attack3-05.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3ac3993f-cba7-4b5d-8150-2ef76602341d@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack3-01.png@f9941",
+    "value": {
+      "depends": [
+        "3ac3993f-cba7-4b5d-8150-2ef76602341d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c89fd6d0-1daa-4807-aeaf-0ce342a90411": {
+    "url": "db://assets/source/hero/adventurer-idle-2-00.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "5f03535a-f163-490a-987e-0c8924717cee@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack3-02.png@6c48a",
+    "value": {
+      "depends": [
+        "5f03535a-f163-490a-987e-0c8924717cee"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6026c3de-c82f-44a2-98f2-fc9b4c16e10a@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack3-03.png@6c48a",
+    "value": {
+      "depends": [
+        "6026c3de-c82f-44a2-98f2-fc9b4c16e10a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5f03535a-f163-490a-987e-0c8924717cee@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack3-02.png@f9941",
+    "value": {
+      "depends": [
+        "5f03535a-f163-490a-987e-0c8924717cee@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b79910e3-ba20-491b-929b-7de53dc5d80e": {
+    "url": "db://assets/source/hero/adventurer-idle-2-01.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ade24ac2-98e8-4ec6-befa-0237fe9b5512@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack3-04.png@6c48a",
+    "value": {
+      "depends": [
+        "ade24ac2-98e8-4ec6-befa-0237fe9b5512"
+      ]
+    },
+    "versionCode": 1
+  },
+  "445c52f1-5ec9-420d-885d-85cd18e4b951@6c48a": {
+    "url": "db://assets/source/hero/adventurer-attack3-05.png@6c48a",
+    "value": {
+      "depends": [
+        "445c52f1-5ec9-420d-885d-85cd18e4b951"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6026c3de-c82f-44a2-98f2-fc9b4c16e10a@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack3-03.png@f9941",
+    "value": {
+      "depends": [
+        "6026c3de-c82f-44a2-98f2-fc9b4c16e10a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c89fd6d0-1daa-4807-aeaf-0ce342a90411@6c48a": {
+    "url": "db://assets/source/hero/adventurer-idle-2-00.png@6c48a",
+    "value": {
+      "depends": [
+        "c89fd6d0-1daa-4807-aeaf-0ce342a90411"
+      ]
+    },
+    "versionCode": 1
+  },
+  "27919899-b06e-4fa4-a3f9-2fc00387c482": {
+    "url": "db://assets/source/hero/adventurer-idle-2-02.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ade24ac2-98e8-4ec6-befa-0237fe9b5512@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack3-04.png@f9941",
+    "value": {
+      "depends": [
+        "ade24ac2-98e8-4ec6-befa-0237fe9b5512@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "445c52f1-5ec9-420d-885d-85cd18e4b951@f9941": {
+    "url": "db://assets/source/hero/adventurer-attack3-05.png@f9941",
+    "value": {
+      "depends": [
+        "445c52f1-5ec9-420d-885d-85cd18e4b951@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "57a5a340-14e7-4704-8aca-12890496f916": {
+    "url": "db://assets/source/hero/adventurer-idle-2-03.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b8e9fffc-f664-4fc6-8075-ddfc8ac494f9": {
+    "url": "db://assets/source/hero/adventurer-run-00.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c89fd6d0-1daa-4807-aeaf-0ce342a90411@f9941": {
+    "url": "db://assets/source/hero/adventurer-idle-2-00.png@f9941",
+    "value": {
+      "depends": [
+        "c89fd6d0-1daa-4807-aeaf-0ce342a90411@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c23ed5ab-6df9-49ec-9003-356bfc3d8a4b": {
+    "url": "db://assets/source/hero/adventurer-run-01.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b79910e3-ba20-491b-929b-7de53dc5d80e@6c48a": {
+    "url": "db://assets/source/hero/adventurer-idle-2-01.png@6c48a",
+    "value": {
+      "depends": [
+        "b79910e3-ba20-491b-929b-7de53dc5d80e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "27919899-b06e-4fa4-a3f9-2fc00387c482@6c48a": {
+    "url": "db://assets/source/hero/adventurer-idle-2-02.png@6c48a",
+    "value": {
+      "depends": [
+        "27919899-b06e-4fa4-a3f9-2fc00387c482"
+      ]
+    },
+    "versionCode": 1
+  },
+  "57a5a340-14e7-4704-8aca-12890496f916@6c48a": {
+    "url": "db://assets/source/hero/adventurer-idle-2-03.png@6c48a",
+    "value": {
+      "depends": [
+        "57a5a340-14e7-4704-8aca-12890496f916"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b79910e3-ba20-491b-929b-7de53dc5d80e@f9941": {
+    "url": "db://assets/source/hero/adventurer-idle-2-01.png@f9941",
+    "value": {
+      "depends": [
+        "b79910e3-ba20-491b-929b-7de53dc5d80e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ebd1319a-cbf9-45c2-b054-57cf8ff57565": {
+    "url": "db://assets/source/hero/adventurer-run-02.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b8e9fffc-f664-4fc6-8075-ddfc8ac494f9@6c48a": {
+    "url": "db://assets/source/hero/adventurer-run-00.png@6c48a",
+    "value": {
+      "depends": [
+        "b8e9fffc-f664-4fc6-8075-ddfc8ac494f9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "27919899-b06e-4fa4-a3f9-2fc00387c482@f9941": {
+    "url": "db://assets/source/hero/adventurer-idle-2-02.png@f9941",
+    "value": {
+      "depends": [
+        "27919899-b06e-4fa4-a3f9-2fc00387c482@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f25983cc-ba91-4d79-8ef2-3f74d98c6466": {
+    "url": "db://assets/source/hero/adventurer-run-03.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "57a5a340-14e7-4704-8aca-12890496f916@f9941": {
+    "url": "db://assets/source/hero/adventurer-idle-2-03.png@f9941",
+    "value": {
+      "depends": [
+        "57a5a340-14e7-4704-8aca-12890496f916@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "39146321-a83d-42b6-854a-e4c5726fa5bf": {
+    "url": "db://assets/source/hero/adventurer-run-04.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c23ed5ab-6df9-49ec-9003-356bfc3d8a4b@6c48a": {
+    "url": "db://assets/source/hero/adventurer-run-01.png@6c48a",
+    "value": {
+      "depends": [
+        "c23ed5ab-6df9-49ec-9003-356bfc3d8a4b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b8e9fffc-f664-4fc6-8075-ddfc8ac494f9@f9941": {
+    "url": "db://assets/source/hero/adventurer-run-00.png@f9941",
+    "value": {
+      "depends": [
+        "b8e9fffc-f664-4fc6-8075-ddfc8ac494f9@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "41281044-cd94-48a4-92f5-884dcd5cda78": {
+    "url": "db://assets/source/hero/adventurer-run-05.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c23ed5ab-6df9-49ec-9003-356bfc3d8a4b@f9941": {
+    "url": "db://assets/source/hero/adventurer-run-01.png@f9941",
+    "value": {
+      "depends": [
+        "c23ed5ab-6df9-49ec-9003-356bfc3d8a4b@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c00969e4-733b-4abd-ac00-a14fe90eb16f": {
+    "url": "db://assets/source/map/TilesExamples.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f25983cc-ba91-4d79-8ef2-3f74d98c6466@6c48a": {
+    "url": "db://assets/source/hero/adventurer-run-03.png@6c48a",
+    "value": {
+      "depends": [
+        "f25983cc-ba91-4d79-8ef2-3f74d98c6466"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ebd1319a-cbf9-45c2-b054-57cf8ff57565@6c48a": {
+    "url": "db://assets/source/hero/adventurer-run-02.png@6c48a",
+    "value": {
+      "depends": [
+        "ebd1319a-cbf9-45c2-b054-57cf8ff57565"
+      ]
+    },
+    "versionCode": 1
+  },
+  "39146321-a83d-42b6-854a-e4c5726fa5bf@6c48a": {
+    "url": "db://assets/source/hero/adventurer-run-04.png@6c48a",
+    "value": {
+      "depends": [
+        "39146321-a83d-42b6-854a-e4c5726fa5bf"
+      ]
+    },
+    "versionCode": 1
+  },
+  "41281044-cd94-48a4-92f5-884dcd5cda78@6c48a": {
+    "url": "db://assets/source/hero/adventurer-run-05.png@6c48a",
+    "value": {
+      "depends": [
+        "41281044-cd94-48a4-92f5-884dcd5cda78"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f25983cc-ba91-4d79-8ef2-3f74d98c6466@f9941": {
+    "url": "db://assets/source/hero/adventurer-run-03.png@f9941",
+    "value": {
+      "depends": [
+        "f25983cc-ba91-4d79-8ef2-3f74d98c6466@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f869c04f-55a8-4226-ba45-85f4cd94a99c": {
+    "url": "db://assets/source/map/Tileset.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "39146321-a83d-42b6-854a-e4c5726fa5bf@f9941": {
+    "url": "db://assets/source/hero/adventurer-run-04.png@f9941",
+    "value": {
+      "depends": [
+        "39146321-a83d-42b6-854a-e4c5726fa5bf@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ebd1319a-cbf9-45c2-b054-57cf8ff57565@f9941": {
+    "url": "db://assets/source/hero/adventurer-run-02.png@f9941",
+    "value": {
+      "depends": [
+        "ebd1319a-cbf9-45c2-b054-57cf8ff57565@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f3bea862-e4c3-4c30-bcf7-527f4e46f16b": {
+    "url": "db://assets/source/map/Trees.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "996d5144-10b4-40b2-842c-1fd2ba955478": {
+    "url": "db://assets/source/map/map.tmx",
+    "value": {
+      "depends": [
+        "f869c04f-55a8-4226-ba45-85f4cd94a99c@f9941",
+        "c00969e4-733b-4abd-ac00-a14fe90eb16f@f9941",
+        "f3bea862-e4c3-4c30-bcf7-527f4e46f16b@f9941"
+      ]
+    },
+    "versionCode": 1
+  },
+  "41281044-cd94-48a4-92f5-884dcd5cda78@f9941": {
+    "url": "db://assets/source/hero/adventurer-run-05.png@f9941",
+    "value": {
+      "depends": [
+        "41281044-cd94-48a4-92f5-884dcd5cda78@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c00969e4-733b-4abd-ac00-a14fe90eb16f@6c48a": {
+    "url": "db://assets/source/map/TilesExamples.png@6c48a",
+    "value": {
+      "depends": [
+        "c00969e4-733b-4abd-ac00-a14fe90eb16f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c00969e4-733b-4abd-ac00-a14fe90eb16f@f9941": {
+    "url": "db://assets/source/map/TilesExamples.png@f9941",
+    "value": {
+      "depends": [
+        "c00969e4-733b-4abd-ac00-a14fe90eb16f@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f869c04f-55a8-4226-ba45-85f4cd94a99c@6c48a": {
+    "url": "db://assets/source/map/Tileset.png@6c48a",
+    "value": {
+      "depends": [
+        "f869c04f-55a8-4226-ba45-85f4cd94a99c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f3bea862-e4c3-4c30-bcf7-527f4e46f16b@6c48a": {
+    "url": "db://assets/source/map/Trees.png@6c48a",
+    "value": {
+      "depends": [
+        "f3bea862-e4c3-4c30-bcf7-527f4e46f16b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f869c04f-55a8-4226-ba45-85f4cd94a99c@f9941": {
+    "url": "db://assets/source/map/Tileset.png@f9941",
+    "value": {
+      "depends": [
+        "f869c04f-55a8-4226-ba45-85f4cd94a99c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f3bea862-e4c3-4c30-bcf7-527f4e46f16b@f9941": {
+    "url": "db://assets/source/map/Trees.png@f9941",
+    "value": {
+      "depends": [
+        "f3bea862-e4c3-4c30-bcf7-527f4e46f16b@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5e45bf89-3202-4db6-a658-a0eb8e74faa8": {
+    "url": "db://assets/scene/game.scene",
+    "value": {},
+    "versionCode": 1
+  },
+  "716f7695-ba79-4fb0-aae1-df44488f2f0b": {
+    "url": "db://assets/scene",
+    "value": {},
+    "versionCode": 1
+  },
+  "4b26402c-dd52-427c-a8d6-366aa38c2137": {
+    "url": "db://assets/scene/game.scene",
+    "value": {
+      "depends": [
+        "4b26402c-dd52-427c-a8d6-366aa38c2137",
+        "c43f028a-9746-4e00-b89f-104da537cdfa@f9941",
+        "549c2334-0d9b-415a-97b1-1a126ad24880@f9941",
+        "412bc46e-1773-4240-a692-3417cba4eed9@f9941",
+        "45eb1a6c-a1ee-499b-831b-32772ab6d769@f9941",
+        "996d5144-10b4-40b2-842c-1fd2ba955478",
+        "c89fd6d0-1daa-4807-aeaf-0ce342a90411@f9941"
+      ],
+      "dependScripts": [
+        "1981ee74-7824-4f71-8a0e-69cb800bcf86"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e9b821dd-6b74-4e9e-bbef-926fddf87ce3": {
+    "url": "db://assets/script",
+    "value": {},
+    "versionCode": 1
+  },
+  "1981ee74-7824-4f71-8a0e-69cb800bcf86": {
+    "url": "db://assets/script/game.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c8b4fa5f-f77c-402b-b930-5298a5f10f77": {
+    "url": "db://assets/scene/hero.ts",
+    "value": {},
+    "versionCode": 1
+  }
+}

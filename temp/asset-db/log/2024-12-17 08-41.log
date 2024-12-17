@@ -1,0 +1,280 @@
+2024-12-17 08:41:46-log: Cannot access game frame or container.
+2024-12-17 08:41:47-debug: asset-db:require-engine-code (1365ms)
+2024-12-17 08:41:47-log: meshopt wasm decoder initialized
+2024-12-17 08:41:47-log: [bullet]:bullet wasm lib loaded.
+2024-12-17 08:41:47-log: [box2d]:box2d wasm lib loaded.
+2024-12-17 08:41:47-log: Cocos Creator v3.8.4
+2024-12-17 08:41:47-log: Using legacy pipeline
+2024-12-17 08:41:51-debug: [Assets Memory track]: asset-db-plugin-register: builder start:84.05MB, end 174.50MB, increase: 90.44MB
+2024-12-17 08:41:51-debug: [Assets Memory track]: asset-db-plugin-register: project start:82.79MB, end 171.80MB, increase: 89.01MB
+2024-12-17 08:41:51-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:81.89MB, end 171.83MB, increase: 89.93MB
+2024-12-17 08:41:48-debug: [Assets Memory track]: asset-db-plugin-register: programming start:82.90MB, end 84.02MB, increase: 1.12MB
+2024-12-17 08:41:47-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:32.03MB, end 81.88MB, increase: 49.85MB
+2024-12-17 08:41:47-log: Forward render pipeline initialized.
+2024-12-17 08:41:51-debug: asset-db:worker-init: initPlugin (4059ms)
+2024-12-17 08:41:51-debug: [Assets Memory track]: asset-db:worker-init start:32.02MB, end 171.94MB, increase: 139.92MB
+2024-12-17 08:41:51-debug: Run asset db hook programming:beforePreStart ...
+2024-12-17 08:41:51-debug: Run asset db hook programming:beforePreStart success!
+2024-12-17 08:41:51-debug: Run asset db hook engine-extends:beforePreStart ...
+2024-12-17 08:41:51-debug: Run asset db hook engine-extends:beforePreStart success!
+2024-12-17 08:41:51-debug: asset-db:worker-init (6018ms)
+2024-12-17 08:41:51-debug: asset-db-hook-programming-beforePreStart (61ms)
+2024-12-17 08:41:51-debug: asset-db-hook-engine-extends-beforePreStart (61ms)
+2024-12-17 08:41:52-debug: Preimport db internal success
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bgbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemybackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/sourcebackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/scenebackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/scriptbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/herobackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/mapbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/scene/hero.tsbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/script/game.tsbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: Preimport db assets success
+2024-12-17 08:41:52-debug: Run asset db hook programming:afterPreStart ...
+2024-12-17 08:41:52-debug: starting packer-driver...
+2024-12-17 08:41:52-debug: initialize scripting environment...
+2024-12-17 08:41:52-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-12-17 08:41:52-debug: [Assets Memory track]: asset-db:worker-init: preStart start:171.96MB, end 175.57MB, increase: 3.62MB
+2024-12-17 08:41:52-debug: Start up the 'internal' database...
+2024-12-17 08:41:52-debug: Run asset db hook engine-extends:afterPreStart ...
+2024-12-17 08:41:52-debug: Run asset db hook programming:afterPreStart success!
+2024-12-17 08:41:52-debug: Run asset db hook engine-extends:afterPreStart success!
+2024-12-17 08:41:52-debug: asset-db-hook-programming-afterPreStart (805ms)
+2024-12-17 08:41:52-debug: asset-db:worker-effect-data-processing (295ms)
+2024-12-17 08:41:52-debug: asset-db-hook-engine-extends-afterPreStart (295ms)
+2024-12-17 08:41:52-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:172.04MB, end 186.70MB, increase: 14.66MB
+2024-12-17 08:41:52-debug: Start up the 'assets' database...
+2024-12-17 08:41:52-debug: asset-db:worker-startup-database[internal] (973ms)
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/scene/game.scenebackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/BGFront.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/CloudsBack.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/BGBack.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/CloudsFront.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/0_0.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/CloudsFront.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/CloudsBack.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/BGFront.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/BGBack.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/CloudsFront.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/BGFront.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/CloudsBack.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/BGBack.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/0_0.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/0_0.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/1_0.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/3_0.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/2_0.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/4_0.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/1_0.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/5_0.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/3_0.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/1_0.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/2_0.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/4_0.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/3_0.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/2_0.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/4_0.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/5_0.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/5_0.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/6_0.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/7_0.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-01.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-00.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-02.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/7_0.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/6_0.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-01.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/7_0.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-00.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/enemy/6_0.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-01.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-00.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-02.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-02.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-03.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-00.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-04.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-01.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-02.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-03.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-00.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-01.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-03.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-00.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-04.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-01.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack1-04.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-02.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-02.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-03.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-04.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-05.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-00.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-03.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-01.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-04.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-03.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-00.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-05.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-04.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack2-05.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-00.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-01.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-01.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-02.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-03.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-04.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-05.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-02.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-03.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-04.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-00.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-02.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-05.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-03.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-04.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-attack3-05.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-00.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-01.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-00.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-02.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-03.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:52-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-00.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-01.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-02.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-03.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-01.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-02.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-00.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-idle-2-03.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-01.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-00.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-02.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-03.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-01.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-04.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-05.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-01.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-03.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-02.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-04.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-03.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-02.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-04.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-05.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/TilesExamples.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/hero/adventurer-run-05.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/Tileset.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/map.tmxbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/TilesExamples.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/Trees.pngbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/TilesExamples.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/Tileset.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/Trees.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/Tileset.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/Trees.png@f9941background: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/map.tmxbackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:41:53-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:174.11MB, end 187.06MB, increase: 12.95MB
+2024-12-17 08:41:53-debug: lazy register asset handler text
+2024-12-17 08:41:53-debug: lazy register asset handler json
+2024-12-17 08:41:53-debug: lazy register asset handler spine-data
+2024-12-17 08:41:53-debug: lazy register asset handler dragonbones
+2024-12-17 08:41:53-debug: lazy register asset handler dragonbones-atlas
+2024-12-17 08:41:53-debug: lazy register asset handler terrain
+2024-12-17 08:41:53-debug: lazy register asset handler javascript
+2024-12-17 08:41:53-debug: lazy register asset handler typescript
+2024-12-17 08:41:53-debug: lazy register asset handler directory
+2024-12-17 08:41:53-debug: lazy register asset handler prefab
+2024-12-17 08:41:53-debug: lazy register asset handler sprite-frame
+2024-12-17 08:41:53-debug: lazy register asset handler tiled-map
+2024-12-17 08:41:53-debug: lazy register asset handler scene
+2024-12-17 08:41:53-debug: lazy register asset handler image
+2024-12-17 08:41:53-debug: lazy register asset handler sign-image
+2024-12-17 08:41:53-debug: lazy register asset handler buffer
+2024-12-17 08:41:53-debug: lazy register asset handler texture
+2024-12-17 08:41:53-debug: lazy register asset handler texture-cube
+2024-12-17 08:41:53-debug: lazy register asset handler erp-texture-cube
+2024-12-17 08:41:53-debug: lazy register asset handler render-texture
+2024-12-17 08:41:53-debug: lazy register asset handler texture-cube-face
+2024-12-17 08:41:53-debug: lazy register asset handler rt-sprite-frame
+2024-12-17 08:41:53-debug: lazy register asset handler gltf
+2024-12-17 08:41:53-debug: lazy register asset handler gltf-mesh
+2024-12-17 08:41:53-debug: lazy register asset handler gltf-animation
+2024-12-17 08:41:53-debug: lazy register asset handler gltf-skeleton
+2024-12-17 08:41:53-debug: lazy register asset handler gltf-material
+2024-12-17 08:41:53-debug: lazy register asset handler gltf-scene
+2024-12-17 08:41:53-debug: lazy register asset handler gltf-embeded-image
+2024-12-17 08:41:53-debug: lazy register asset handler fbx
+2024-12-17 08:41:53-debug: lazy register asset handler material
+2024-12-17 08:41:53-debug: lazy register asset handler physics-material
+2024-12-17 08:41:53-debug: lazy register asset handler effect
+2024-12-17 08:41:53-debug: lazy register asset handler effect-header
+2024-12-17 08:41:53-debug: lazy register asset handler audio-clip
+2024-12-17 08:41:53-debug: lazy register asset handler animation-clip
+2024-12-17 08:41:53-debug: lazy register asset handler animation-graph
+2024-12-17 08:41:53-debug: lazy register asset handler animation-graph-variant
+2024-12-17 08:41:53-debug: lazy register asset handler animation-mask
+2024-12-17 08:41:53-debug: lazy register asset handler ttf-font
+2024-12-17 08:41:53-debug: lazy register asset handler bitmap-font
+2024-12-17 08:41:53-debug: lazy register asset handler particle
+2024-12-17 08:41:53-debug: lazy register asset handler sprite-atlas
+2024-12-17 08:41:53-debug: lazy register asset handler auto-atlas
+2024-12-17 08:41:53-debug: lazy register asset handler label-atlas
+2024-12-17 08:41:53-debug: lazy register asset handler alpha-image
+2024-12-17 08:41:53-debug: lazy register asset handler render-stage
+2024-12-17 08:41:53-debug: lazy register asset handler render-pipeline
+2024-12-17 08:41:53-debug: lazy register asset handler instantiation-material
+2024-12-17 08:41:53-debug: [Assets Memory track]: asset-db:worker-init: startup start:175.59MB, end 187.08MB, increase: 11.49MB
+2024-12-17 08:41:53-debug: lazy register asset handler instantiation-skeleton
+2024-12-17 08:41:53-debug: lazy register asset handler instantiation-animation
+2024-12-17 08:41:53-debug: lazy register asset handler video-clip
+2024-12-17 08:41:53-debug: lazy register asset handler *
+2024-12-17 08:41:53-debug: lazy register asset handler instantiation-mesh
+2024-12-17 08:41:53-debug: lazy register asset handler render-flow
+2024-12-17 08:41:53-debug: asset-db:worker-startup-database[assets] (1037ms)
+2024-12-17 08:41:53-debug: asset-db:start-database (1125ms)
+2024-12-17 08:41:53-debug: asset-db:ready (10128ms)
+2024-12-17 08:41:53-debug: init worker message success
+2024-12-17 08:41:53-debug: programming:execute-script (4ms)
+2024-12-17 08:41:53-debug: [Build Memory track]: builder:worker-init start:189.90MB, end 200.99MB, increase: 11.10MB
+2024-12-17 08:41:54-debug: builder:worker-init (1264ms)
+2024-12-17 08:41:58-debug: refresh db internal success
+2024-12-17 08:41:58-debug: refresh db assets success
+2024-12-17 08:41:58-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-12-17 08:41:58-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-12-17 08:41:58-debug: asset-db:refresh-all-database (72ms)
+2024-12-17 08:41:58-debug: asset-db:worker-effect-data-processing (8ms)
+2024-12-17 08:41:58-debug: asset-db-hook-engine-extends-afterRefresh (9ms)
+2024-12-17 08:42:00-debug: %cImport%c: /Users/longbow/project/learn/cocos-2d-action-connection/assets/scene/game.scenebackground: #aaff85; color: #000;color: #000;
+2024-12-17 08:42:00-debug: asset-db:reimport-asset4b26402c-dd52-427c-a8d6-366aa38c2137 (9ms)
+2024-12-17 08:42:00-debug: Query all assets info in project
+2024-12-17 08:42:00-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-12-17 08:42:00-debug: 查询 Asset Bundle start, progress: 0%
+2024-12-17 08:42:00-debug: // ---- build task 查询 Asset Bundle ----
+2024-12-17 08:42:00-debug: Query preload assets/scripts from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,6a2d0734-bd9e-4ddf-946e-caa52498cb75,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d,ff9b0199-ce04-4cfe-86cc-6c719f08d6e4,de1c2107-70c8-4021-8459-6399f24d01c6,cbf30902-517f-40dc-af90-a550bac27cf1
+2024-12-17 08:42:00-debug:   Number of all scenes: 1
+2024-12-17 08:42:00-debug:   Number of all scripts: 6
+2024-12-17 08:42:00-debug:   Number of other assets: 437
+2024-12-17 08:42:00-debug: run build task 查询 Asset Bundle success in 14 ms√, progress: 5%
+2024-12-17 08:42:00-debug: [Build Memory track]: 查询 Asset Bundle start:198.44MB, end 199.23MB, increase: 805.16KB
+2024-12-17 08:42:00-debug: 查询 Asset Bundle start, progress: 5%
+2024-12-17 08:42:00-debug: // ---- build task 查询 Asset Bundle ----
+2024-12-17 08:42:00-debug: // ---- build task 查询 Asset Bundle ---- (14ms)
+2024-12-17 08:42:00-debug: // ---- build task 查询 Asset Bundle ---- (3ms)
+2024-12-17 08:42:00-debug: run build task 查询 Asset Bundle success in 3 ms√, progress: 10%
+2024-12-17 08:42:00-debug: [Build Memory track]: 查询 Asset Bundle start:199.26MB, end 199.36MB, increase: 102.32KB
+2024-12-17 08:42:00-debug: 整理部分构建选项内数据到 settings.json start, progress: 10%
+2024-12-17 08:42:00-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-12-17 08:42:00-debug: run build task 整理部分构建选项内数据到 settings.json success in √, progress: 12%
+2024-12-17 08:42:00-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:199.39MB, end 199.40MB, increase: 16.56KB
+2024-12-17 08:42:00-debug: 填充脚本数据到 settings.json start, progress: 12%
+2024-12-17 08:42:00-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-12-17 08:42:00-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2024-12-17 08:42:00-debug: run build task 填充脚本数据到 settings.json success in 1 ms√, progress: 13%
+2024-12-17 08:42:00-debug: [Build Memory track]: 填充脚本数据到 settings.json start:199.43MB, end 199.46MB, increase: 26.23KB
+2024-12-17 08:42:00-debug: 整理部分构建选项内数据到 settings.json start, progress: 13%
+2024-12-17 08:42:00-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-12-17 08:42:00-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (13ms)
+2024-12-17 08:42:00-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:199.48MB, end 199.63MB, increase: 145.02KB
+2024-12-17 08:42:00-debug: run build task 整理部分构建选项内数据到 settings.json success in 13 ms√, progress: 15%

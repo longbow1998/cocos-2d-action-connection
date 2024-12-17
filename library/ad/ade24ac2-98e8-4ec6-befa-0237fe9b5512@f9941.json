@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "adventurer-attack3-04",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 16,
+      "width": 34,
+      "height": 20
+    },
+    "offset": {
+      "x": -8,
+      "y": -7.5
+    },
+    "originalSize": {
+      "width": 50,
+      "height": 37
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -17,
+        -10,
+        0,
+        17,
+        -10,
+        0,
+        -17,
+        10,
+        0,
+        17,
+        10,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        21,
+        34,
+        21,
+        0,
+        1,
+        34,
+        1
+      ],
+      "nuv": [
+        0,
+        0.02702702702702703,
+        0.68,
+        0.02702702702702703,
+        0,
+        0.5675675675675675,
+        0.68,
+        0.5675675675675675
+      ],
+      "minPos": {
+        "x": -17,
+        "y": -10,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 17,
+        "y": 10,
+        "z": 0
+      }
+    },
+    "texture": "ade24ac2-98e8-4ec6-befa-0237fe9b5512@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

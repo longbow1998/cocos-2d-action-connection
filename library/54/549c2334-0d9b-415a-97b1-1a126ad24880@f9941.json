@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CloudsFront",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 37,
+      "width": 512,
+      "height": 283
+    },
+    "offset": {
+      "x": 0,
+      "y": -18.5
+    },
+    "originalSize": {
+      "width": 512,
+      "height": 320
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -256,
+        -141.5,
+        0,
+        256,
+        -141.5,
+        0,
+        -256,
+        141.5,
+        0,
+        256,
+        141.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        283,
+        512,
+        283,
+        0,
+        0,
+        512,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0.884375,
+        1,
+        0.884375
+      ],
+      "minPos": {
+        "x": -256,
+        "y": -141.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 256,
+        "y": 141.5,
+        "z": 0
+      }
+    },
+    "texture": "549c2334-0d9b-415a-97b1-1a126ad24880@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}
