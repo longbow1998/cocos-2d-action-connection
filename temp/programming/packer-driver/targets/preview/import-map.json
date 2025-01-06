@@ -7,7 +7,8 @@
     "file:///Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline.ts": "./chunks/41/4109426b88add842c9c43cc2e1bc4e30668de93e.js",
     "file:///Applications/Cocos/Creator/3.8.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/ea/ea97adb72e4faec12843537599f72aa79dec8434.js",
     "file:///Users/longbow/project/learn/cocos-2d-action-connection/assets/scene/hero.ts": "./chunks/d0/d0cf58f4ab86fcc21bad1577d6112e15528f253a.js",
-    "file:///Users/longbow/project/learn/cocos-2d-action-connection/assets/script/game.ts": "./chunks/ef/efc396fe505dbb2f6e576b2df25d220274a0c265.js"
+    "file:///Users/longbow/project/learn/cocos-2d-action-connection/assets/script/game.ts": "./chunks/ef/efc396fe505dbb2f6e576b2df25d220274a0c265.js",
+    "file:///Users/longbow/project/learn/cocos-2d-action-connection/assets/script/hero.ts": "./chunks/28/28e44a0a21c7c7e161212fd7c00f6f0d79a7294f.js"
   },
   "scopes": {
     "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js": {
@@ -38,7 +39,11 @@
       "__unresolved_2": "./chunks/41/4109426b88add842c9c43cc2e1bc4e30668de93e.js",
       "__unresolved_3": "./chunks/ea/ea97adb72e4faec12843537599f72aa79dec8434.js",
       "__unresolved_4": "./chunks/d0/d0cf58f4ab86fcc21bad1577d6112e15528f253a.js",
-      "__unresolved_5": "./chunks/ef/efc396fe505dbb2f6e576b2df25d220274a0c265.js"
+      "__unresolved_5": "./chunks/ef/efc396fe505dbb2f6e576b2df25d220274a0c265.js",
+      "__unresolved_6": "./chunks/28/28e44a0a21c7c7e161212fd7c00f6f0d79a7294f.js"
+    },
+    "./chunks/28/28e44a0a21c7c7e161212fd7c00f6f0d79a7294f.js": {
+      "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
     "./chunks/ef/efc396fe505dbb2f6e576b2df25d220274a0c265.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"

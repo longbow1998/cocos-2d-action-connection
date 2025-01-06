@@ -377,7 +377,7 @@
       "uuid": "716f7695-ba79-4fb0-aae1-df44488f2f0b"
     },
     "/Users/longbow/project/learn/cocos-2d-action-connection/assets/script": {
-      "time": 1733579227266.1494,
+      "time": 1736123397827.373,
       "uuid": "e9b821dd-6b74-4e9e-bbef-926fddf87ce3"
     },
     "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source": {
@@ -436,7 +436,7 @@
       "time": 1733579227267.2893
     },
     "/Users/longbow/project/learn/cocos-2d-action-connection/assets/scene/game.scene": {
-      "time": 1734396120706.8635,
+      "time": 1736150369882.523,
       "uuid": "4b26402c-dd52-427c-a8d6-366aa38c2137"
     },
     "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/bg/BGBack.png": {
@@ -742,6 +742,13 @@
     },
     "/Users/longbow/project/learn/cocos-2d-action-connection/assets/source/map/Trees.png.meta": {
       "time": 1733578130826.7166
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/script/hero.ts.meta": {
+      "time": 1736123397830.982
+    },
+    "/Users/longbow/project/learn/cocos-2d-action-connection/assets/script/hero.ts": {
+      "time": 1736153947186.317,
+      "uuid": "4d74cf7d-e79a-47c6-834d-38927073a52e"
     }
   },
   "missing": {

@@ -1105,9 +1105,11 @@
         "412bc46e-1773-4240-a692-3417cba4eed9@f9941",
         "45eb1a6c-a1ee-499b-831b-32772ab6d769@f9941",
         "996d5144-10b4-40b2-842c-1fd2ba955478",
-        "c89fd6d0-1daa-4807-aeaf-0ce342a90411@f9941"
+        "c89fd6d0-1daa-4807-aeaf-0ce342a90411@f9941",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
       ],
       "dependScripts": [
+        "4d74cf7d-e79a-47c6-834d-38927073a52e",
         "1981ee74-7824-4f71-8a0e-69cb800bcf86"
       ]
     },
@@ -1125,6 +1127,11 @@
   },
   "c8b4fa5f-f77c-402b-b930-5298a5f10f77": {
     "url": "db://assets/scene/hero.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "4d74cf7d-e79a-47c6-834d-38927073a52e": {
+    "url": "db://assets/script/hero.ts",
     "value": {},
     "versionCode": 1
   }
